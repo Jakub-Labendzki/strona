@@ -1,0 +1,57 @@
+#menu{
+    z-index: 20;
+    position: sticky;
+    background-color: var(--red);
+    background-color: greenyellow;
+    width: 100%;
+    height: 9vh;
+    overflow: hidden;
+    text-align: center;
+    top: 0vw;
+    border: 0px;
+}
+
+button{
+    border: 0px;
+    background-color: greenyellow;
+    width: 17vw;
+    margin: 0px;
+    height: 2.8vw;
+    font-size: large;
+    cursor: pointer;
+}
+body{
+    background-color: rgb(3, 182, 33);
+}
+
+#BM{
+    width: 70vw;
+    filter: grayscale(70%);
+}
+#CFC{
+    width: 70vw;
+    filter: grayscale(70%);
+}
+#RM{
+    width: 70vw;
+    filter: grayscale(70%);
+}
+#FCB{
+    width: 70vw;
+    filter: grayscale(70%);
+}
+
+footer {
+    margin-left: 1vw;
+    padding-top: 1vw;
+    background-color: white;
+    font-size: 1vw;
+    height: 9vh;
+    margin-left: 0%;
+}
+h2{
+    text-align: justify;
+    text-justify: inter-word;
+    display: flex;
+    justify-content: center;
+}
